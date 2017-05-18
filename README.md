@@ -1,6 +1,6 @@
 # Bachelor of science at university of Béjaia-ALgeria. 2013
 
-# Web-Application-for-Software-Management.
+# Web-Application-for-Software-Management
 
 Currently, the use of software has become essential and mandatory in the daily life of companies and organizations so as 
 to contribute to the fulfillment and respond to the need of the fore-mentioned institutions. Realizing the need and the role 
